@@ -1,5 +1,5 @@
 # EC3883 - Laboratorio de Proyectos III
-Repositorio para el Laboratorio de Proyectos III de la carrera [Tecnología Electrónica ](https://www.ie.coord.usb.ve/) de la [Unversidad Simón Bolívar](https://www.usb.ve/)
+Repositorio para el [Laboratorio de Proyectos III](http://www.ec.usb.ve/pdf/ec3xxx/ec388X_2002.pdf) de la carrera [Tecnología Electrónica ](https://www.ie.coord.usb.ve/) de la [Unversidad Simón Bolívar](https://www.usb.ve/)
 
 ## Premisas
 
