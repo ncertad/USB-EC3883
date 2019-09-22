@@ -1,5 +1,5 @@
 # EC3883 - Laboratorio de Proyectos III
-Repositorio para el [Laboratorio de Proyectos III](http://www.ec.usb.ve/pdf/ec3xxx/ec388X_2002.pdf) de la carrera [Tecnología Electrónica ](https://www.ie.coord.usb.ve/) de la [Unversidad Simón Bolívar](https://www.usb.ve/)
+Repositorio para el [Laboratorio de Proyectos III](http://www.ec.usb.ve/pdf/ec3xxx/ec388X_2002.pdf) de la carrera [Ingeniería Electrónica ](https://www.ie.coord.usb.ve/) de la [Unversidad Simón Bolívar](https://www.usb.ve/)
 
 ## Premisas
 
@@ -13,16 +13,11 @@ Repositorio para el [Laboratorio de Proyectos III](http://www.ec.usb.ve/pdf/ec3x
 * Proyecto: 
 ## Software a utilizar
 De libre acceso, multiplataforma. Pueden instalarlo en sus computadoras personales:
-* [MPLAB X IDE v5.25](https://www.microchip.com/mplab/mplab-x-ide)
-* [MPLAB XC8 C compiler v2.10](https://www.microchip.com/mplab/compilers)
-
-Software con licencia, disponible sólo en las computadoras de ELE-208:
-* PROTEUS 8
+* CodeWarrior v10.6
 
 Otros:
 * Multisim
 * Microsoft Excel
 * [Fritzing](https://fritzing.org/home/)
-## Material de Apoyo
-* [PIC16F877 User Manual](http://ww1.microchip.com/downloads/en/DeviceDoc/30292D.pdf)
+
 
