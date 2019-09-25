@@ -51,6 +51,8 @@ Para el miércoles  de la semana 3 deben estar listas las siguientes actividades
 02 | xxxxx xxxx | xx-xxxxx | xxx
 04 | Gianluque De Simone | 12-11412 | [@Gianluque](https://github.com/Gianluque)
 04 | Marco Arroyo | 08-10073 | [@Marco](https://github.com/githubdemarco)
+05 | Anderson Contreras | 16-11350 | [@AMCA15](https://github.com/AMCA15)
+05 | Alvaro Navarro | 13-10968 | [@alvaroanavarro1](https://github.com/alvaroanavarro1)
 06 | Jesús Colmenares | 14-11384 | [@jesuscol96](https://github.com/jesuscol96)
 06 | Christian Dos Santos | 14-10315 | [@ChristianDosSantos](https://github.com/ChristianDosSantos)
 07 | Eisler Aguilar | 14-10015 | [@Eisler18](https://github.com/Eisler18)
