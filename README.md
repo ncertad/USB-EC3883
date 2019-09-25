@@ -49,3 +49,5 @@ Para el miércoles  de la semana 3 deben estar listas las siguientes actividades
 01 | xxxxx xxxx | xx-xxxxx | xxx
 02 | xxxxx xxxx | xx-xxxxx | xxx
 02 | xxxxx xxxx | xx-xxxxx | xxx
+04 | Gianluque De Simone | 12-11412 | [@Gianluque](https://github.com/Gianluque)
+04 | Marco Arroyo | 08-10073 | [@Marco](https://github.com/githubdemarco)
