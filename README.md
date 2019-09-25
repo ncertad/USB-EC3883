@@ -47,8 +47,8 @@ Para el miércoles  de la semana 3 deben estar listas las siguientes actividades
 00 | Novel Certad | 02-34759 | [@ncertad](https://github.com/ncertad) 
 01 | Harold Harting | 14-10477 | [@Harting14](https://github.com/Harting14)
 01 | Fulvio D'Addazio | 07-40794 | [@fulvio77](https://github.com/fulvio77)
-02 | xxxxx xxxx | xx-xxxxx | xxx
-02 | xxxxx xxxx | xx-xxxxx | xxx
+02 | Daniela Rivas | 14-10914 | [@danirivas7](https://github.com/danirivas7)
+02 | Manuel Hurtado | 12-10004 | [@mhurtadolinc](https://github.com/mhurtadolinc)
 04 | Gianluque De Simone | 12-11412 | [@Gianluque](https://github.com/Gianluque)
 04 | Marco Arroyo | 08-10073 | [@Marco](https://github.com/githubdemarco)
 05 | Anderson Contreras | 16-11350 | [@AMCA15](https://github.com/AMCA15)
