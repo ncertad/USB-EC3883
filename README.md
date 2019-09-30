@@ -60,6 +60,8 @@ Para el miércoles  de la semana 3 deben estar listas las siguientes actividades
 07 | Eisler Aguilar | 14-10015 | [@Eisler18](https://github.com/Eisler18)
 07 | Jesús Guillén | 14-10460 | [@14-10460](https://github.com/14-10460)
 07 | Luis Ruiz | 14-10989 | [@luiserox](https://github.com/luiserox)
+08 | Etna Davis | 14-10281 | [@davisetna](https://github.com/davisetna)
+08 | Hugo Troyani | 14-11094 | [@HTroy97](https://github.com/HTroy97)
 09 | Adrián González | 14-10433 | [@adgp97](https://github.com/adgp97)
 09 | José Morán | 14-10714 | [@jose0796](https://github.com/jose0796)
 11 | Miguel Labrador | 12-10423 |[@miguelangel2801](https://github.com/miguelangel2801)
