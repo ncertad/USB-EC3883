@@ -39,7 +39,10 @@ Para el miércoles  de la semana 3 deben estar listas las siguientes actividades
    * Edite la wiki de su repositorio para agregar la información necesaria para la **1era entrega - Anteproyecto** según lo indicado en el prelaboratorio y en la presentación de la materia.
    * Cada miembro del grupo debe tener al menos 10 contribuciones en el repositorio para el momento de la evaluación.
    * Debe tener al menos un _commit_ inicial del firmware al momento de la evaluación.
-  
+1. **Hoja de evaluación** 
+   * Contenido.
+   * Wiki
+   * Participación
 ## Lista de integrantes 
 
  Grupo | Nombre y Apellido | Carné | perfil
