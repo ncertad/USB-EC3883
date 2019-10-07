@@ -43,6 +43,29 @@ Para el miércoles  de la semana 3 deben estar listas las siguientes actividades
    * Contenido.
    * Wiki
    * Participación
+ Grupo | Carné | 5% |
+------ | ----- | -------------
+01 | Harold Harting | 14-10477 
+01 | Fulvio D'Addazio | 07-40794 
+02 | Daniela Rivas | 14-10914 
+02 | Manuel Hurtado | 12-10004 |
+03 | Esaú Gil | 08-10436 | 
+03 | Romer Mena | 08-10254 
+04 | Gianluque De Simone | 12-11412 
+04 | Marco Arroyo | 08-10073 
+05 | Anderson Contreras | 16-11350
+05 | Alvaro Navarro | 13-10968 | 
+06 | Jesús Colmenares | 14-11384 | 
+06 | Christian Dos Santos | 14-10315 | 
+07 | Eisler Aguilar | 14-10015 | 
+07 | Jesús Guillén | 14-10460 | 
+07 | Luis Ruiz | 14-10989 | 
+08 | Etna Davis | 14-10281 | 
+08 | Hugo Troyani | 14-11094 | 
+09 | Adrián González | 14-10433 | 
+09 | José Morán | 14-10714 | 
+11 | Miguel Labrador | 12-10423 |
+11 | José Calderón | 13-10199 | 
 ## Lista de integrantes 
 
  Grupo | Nombre y Apellido | Carné | perfil
