@@ -64,8 +64,8 @@ Para el miércoles  de la semana 3 deben estar listas las siguientes actividades
 08 | Hugo Troyani | 14-11094 | 
 09 | Adrián González | 14-10433 | 
 09 | José Morán | 14-10714 | 
-11 | Miguel Labrador | 12-10423 |
-11 | José Calderón | 13-10199 | 
+10 | Miguel Labrador | 12-10423 |
+10 | José Calderón | 13-10199 | 
 ## Lista de integrantes 
 
  Grupo | Nombre y Apellido | Carné | perfil
@@ -90,5 +90,5 @@ Para el miércoles  de la semana 3 deben estar listas las siguientes actividades
 08 | Hugo Troyani | 14-11094 | [@HTroy97](https://github.com/HTroy97)
 09 | Adrián González | 14-10433 | [@adgp97](https://github.com/adgp97)
 09 | José Morán | 14-10714 | [@jose0796](https://github.com/jose0796)
-11 | Miguel Labrador | 12-10423 |[@miguelangel2801](https://github.com/miguelangel2801)
-11 | José Calderón | 13-10199 | [@josemacc](https://github.com/josemacc)
+10 | Miguel Labrador | 12-10423 |[@miguelangel2801](https://github.com/miguelangel2801)
+10 | José Calderón | 13-10199 | [@josemacc](https://github.com/josemacc)
