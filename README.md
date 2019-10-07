@@ -23,7 +23,7 @@ Otros:
 * ver carpeta [documents]() (en construcción).
 
 ## Evaluaciones
-### 1era Evaluación: Anteproyecto
+### 1era Evaluación: Anteproyecto (5%)
 Para el miércoles  de la semana 3 deben estar listas las siguientes actividades:
 1. **Registro en GitHub:** Todos los miembros del equipo deben tener cuentas individuales y realizar las actividades.
    - En caso de no tener una cuenta previa, registrarse en [GitHub](https://github.com/).
